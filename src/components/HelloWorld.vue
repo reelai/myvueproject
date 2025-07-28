@@ -8,7 +8,7 @@ defineProps<{
 <template>
   <!-- 这个一个整体div, 里面的block元素自然是竖着排-->
   <div class="greetings">
-    <h1 class="green">{{ msg + "<h1>h1</h1>" }}</h1>
+    <h1 class="green">{{ msg + "<h1>h2</h1>" }}</h1>
     <h3>
       You have successfully created a project with
       <a href="https://vite.dev/" target="_blank" rel="noopener">Vite</a> +
